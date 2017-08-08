@@ -11,9 +11,9 @@ Paginate = 5
 preserveTaxonomyNames = true
 
 [params]
-  description = "Minimalist theme for Hugo"
+  description = "A type of berry that can purr"
   dateFormat = "2006, Jan 2"
-  copyrightOwner = "MunifTanjim"
+  copyrightOwner = "Hiep Can"
   copyrightStartYear = "2017"
   favicon = "favicon.ico"
   hideEntryNavigation = false
@@ -41,20 +41,17 @@ preserveTaxonomyNames = true
   name = "Minimo"
 
 [author.social]
-  codepen = "MunifTanjim"
-  facebook = "MunifTanjim"
-  github = "MunifTanjim/minimo"
-  instagram = "instagram"
-  twitter = "MunifTanjim"
+  github = "kurokuriboh"
+  twitter = "kurokuriboh"
 
 [permalinks]
   page = "/:slug/"
 
 [[menu.main]]
-  name = "Repo"
+  name = "Home"
   weight = -70
-  identifier = "repository"
-  url = "https://github.com/MunifTanjim/minimo"
+  identifier = "home"
+  url = "./"
 
 # Language Configuration
 defaultContentLanguage = "en"

@@ -7,12 +7,15 @@
   </article>
   {{ end }}
   <section id='list' class='list-container'>
+    <h2 class='list-title title'>{{ i18n "construction" }}</h2>
+    <!--
     <h2 class='list-title title'>{{ i18n "recentPosts" }}</h2>
     <div class='list'>
       {{ range ( first 5 ( where .Data.Pages "Section" "ne" "page" ) ) }}
         {{ .Render "li" }}
       {{ end }}
     </div>
+    -->
   </section>
 </main>
 

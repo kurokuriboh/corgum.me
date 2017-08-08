@@ -42,3 +42,9 @@
 
 [socialMenu]
   other = "Social Menu"
+
+[errorPage]
+  other = "Nothing to see here :)"
+
+[construction]
+  other = "Coming soon (^=˃ᆺ˂)"
