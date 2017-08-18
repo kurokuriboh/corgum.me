@@ -3,12 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.odinberry.me/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.odinberry.me/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.odinberry.me/resume/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.odinberry.me/work/</loc>
+  </url>
+  
+  <url>
     <loc>http://www.odinberry.me/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.odinberry.me/</loc>
+    <loc>http://www.odinberry.me/page/</loc>
     <priority>0</priority>
   </url>
   
