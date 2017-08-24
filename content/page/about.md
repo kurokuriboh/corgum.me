@@ -6,7 +6,7 @@ weight: -220
 hideEntryNavigation: true
 ---
 
-I code just for fun. Explore for more.
+I code just for fun. Explore this website to learn more.
 
 Odinberry is created for me to keep track of my works.
 

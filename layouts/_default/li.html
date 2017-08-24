@@ -1,0 +1,23 @@
+<article class='list-item'>
+  <div class='meta'>
+    <span>
+      <span class='screen-reader'>{{ i18n "postedOn" }} </span>
+      {{ if .Params.enableQuarterDate }}
+        {{ .Params.quarterDate }}
+      {{ else }}
+        <time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
+          {{- .Date.Format "2006, Jan 02" -}}
+        </time>
+      {{ end }}
+    </span>
+  </div>
+  <header class='list-item-header'>
+    <h3 class='list-item-title'>
+      <a href='{{ .Permalink }}'>
+        <b>{{- .Title -}}</b>
+        <br>
+        {{ .Params.Description }}
+      </a>
+    </h3>
+  </header>
+</article>
