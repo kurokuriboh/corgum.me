@@ -1,42 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on OdinBerry</title>
-    <link>http://www.odinberry.me/</link>
-    <description>Recent content in Home on OdinBerry</description>
+    <title>Work on OdinBerry</title>
+    <link>http://www.odinberry.me/work/</link>
+    <description>Recent content in Work on OdinBerry</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 05 May 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.odinberry.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.odinberry.me/work/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>http://www.odinberry.me/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.odinberry.me/about/</guid>
-      <description>I code just for fun. Explore this website to learn more.
-Odinberry is created for me to keep track of my works.
-Made with &amp;lt;3 using Minimo and Hugo.</description>
-    </item>
-    
-    <item>
-      <title>Resume</title>
-      <link>http://www.odinberry.me/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.odinberry.me/resume/</guid>
-      <description>Hiep Can hiepcan@uw.edu
-Education University of Washington
-B.S. in Computer Science &amp;ndash; Expected June 2018
- Relevant Coursework:
-Compiler Construction; Computer Networks; Data Visualization Microsoft College Code Competition (msft3c):
-First Place Team out of 5 teams. DubHacks Hackathon:
-Top 6 out of 88 teams.  Experience Unity Technologies
-Cloud Services Engineering Intern, June 2017 - September 2017
- Designed and developed a cache compressor using gzip algorithm, with the potential of reducing storage size by 55% and download time by 33%.</description>
-    </item>
     
     <item>
       <title>Looking Down the Barrel</title>

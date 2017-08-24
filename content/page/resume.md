@@ -5,7 +5,7 @@ menu: main
 weight: -170
 hideEntryNavigation: true
 ---
-<h2 class='entry-title title'>Hiep Can</h2>
+<h2 class='title title'>Hiep Can</h2>
 *hiepcan@uw.edu*
 
 
@@ -44,8 +44,17 @@ by aggregating data base on a search query using ElasticSearch and Highcharts AP
 - Added additional properties to Player Profile by updating SQL database, adding predicates for 
 segmentation, and creating APIs that interacts with the properties. C#, SQL, TypeScript
 
+<h4 class='entry-title title'>Projects</h4>
+
+---
+Check [Work](../work) for more.
+
 <h4 class='entry-title title'>Skills</h4>
 
 ---
 - **Languages**: Java (Proficient), Go, JavaScript, C#, SQL
 - **Tools**: Git, AWS, Apache Ant, Docker, Kubernetes
+
+
+---
+{{% center %}} [Download Resume](https://drive.google.com/file/d/0BygNl2UmGqi4TmtDdGhLWmtrLU0/view?usp=sharing) {{% /center %}}
