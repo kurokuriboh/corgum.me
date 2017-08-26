@@ -5,6 +5,7 @@ menu: main
 weight: -220
 hideEntryNavigation: true
 ---
+> Imitation is the sincerest form of flattery
 
 I code just for fun. Explore this website to learn more.
 
